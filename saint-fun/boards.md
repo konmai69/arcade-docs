@@ -33,6 +33,7 @@
 **OS:** customized Ubuntu 12.04.1 LTS (Linux 3.2.0)  
 **Games:**   
 * Cookie Master  
-* Digging Saga  
+* Digging Saga
+
 **BIOS:** AMIBIOS Aptio (04/02/2013)  
 **Security:** custom PCI card which handles the decryption of the game  
