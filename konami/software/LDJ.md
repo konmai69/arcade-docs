@@ -2,7 +2,9 @@
 
 * Compatible main PCB
   * 20 - 24: [`HM65`](../boards.md#hm65)
-  * 25+: [`ADE-6291`](../boards.md#ade-6291)
+  * 25 - 30: [`ADE-6291`](../boards.md#ade-6291)
+  * 30+: ['C300'](../boards.md#c300xonarae)
+  * 31+: ['H310'](../boards.md#h310)
 * Compatible IO
   * 20 - 24: [GEC02-PWB(A)A](../io.md#GEC02-PWBAA), [D01 IO](../io.md#d01-io), [USBIO2](../io.md#usbio2)
   * 25+: [BIO2](../io.md#bio2)
@@ -34,3 +36,18 @@
 * 27 Heroic Verse
   * First version: `2019101600`
   * Last version: `2020102200`
+* 28 BISTROVER
+  * First version: `2020102800`
+  * Last version: `2021100400`
+* 29 CastHour
+  * First version: `2021101300`
+  * Last version: `2022101720`
+* 30 RESIDENT
+  * First version: `2022101900`
+  * LDJ-012 first version: `2023021400`
+  * Last version: `2023101600`
+* 31 EPOLIS
+  * First version: `2023101800`
+  * Last version: `2024100700`
+* 32 Pinky Crush
+  * First version: `2024100900`
